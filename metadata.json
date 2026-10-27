@@ -1,0 +1,6 @@
+{
+  "name": "Tín Ngưỡng Văn Minh",
+  "description": "Cẩm nang tra cứu và hỗ trợ người dân thực hành tín ngưỡng văn minh, đúng pháp luật, nhận diện mê tín dị đoan và mức phạt quy định.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
